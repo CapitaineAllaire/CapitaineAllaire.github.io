@@ -1,1 +1,0 @@
-import{_ as e,c as t,o as n,a as o}from"./COowC9Fj.js";const c={},s=o("div",null,"Soyez patient, Cette page est encore en reconstruction",-1),r=[s];function a(_,i){return n(),t("section",null,r)}const l=e(c,[["render",a]]);export{l as default};
